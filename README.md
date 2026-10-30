@@ -8,6 +8,7 @@ A comprehensive collection of advanced prompts engineered for Grok AI. Features 
 - Grok 4 (July 2025) and later Grok 4.x models are reasoning models with native tool use (code execution, web and X search) and a 256K context window; the jailbreak prompts below were collected for Grok 3 and are kept for research / archival purposes only — most no longer work on current models.
 - Official docs: [xAI API docs](https://docs.x.ai/)
 - General prompting advice for reasoning models (also applies to Grok): [DeepSeek V4 思考模式提示技巧](https://github.com/EmbraceAGI/awesome-chatgpt-zh/blob/main/docs/ChatGPT_prompts.md#deepseek-v4-思考模式提示技巧) · [LangGPT](https://github.com/langgptai/LangGPT)
+- [Satori](https://github.com/MetcalfSolutions/Satori) - Wisdom companion skill for Grok with a local SQLite memory vault and trigger discipline that stays silent during pure coding work.
 
 # Prompts
 
